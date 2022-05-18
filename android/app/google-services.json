@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "39746056016",
+    "project_id": "login-df450",
+    "storage_bucket": "login-df450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39746056016:android:2d6c8e489e7c1d1f170655",
+        "android_client_info": {
+          "package_name": "com.example.login_with_google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39746056016-pq4ql9a0p0d9j8taqqvqpfem5sdsqpmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_with_google",
+            "certificate_hash": "a48a5568ad38e520935db8a7824a7e7002a98845"
+          }
+        },
+        {
+          "client_id": "39746056016-qu7fdd11s5qbhoktf53iltnlo04217ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm5zcp4rRYsC_F5TK1L6CwF4VIXBTPZDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39746056016-qu7fdd11s5qbhoktf53iltnlo04217ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
